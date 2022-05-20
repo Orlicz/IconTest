@@ -15,4 +15,4 @@
   * 如果想有所反应，请在147行添加"ResNotify(*Myn)"，里面	
   * 。。。您自己看吧'
   * 										
-  * [演示](/Orlicz/IconTest/raw/main/x64/Release/IconTest.exe)
+  * [演示](https://github.com/Orlicz/IconTest/raw/main/x64/Release/IconTest.exe)
