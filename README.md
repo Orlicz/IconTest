@@ -3,10 +3,10 @@
   能添加Icon
   * 欢迎！												
   * [这个文件](//github.com/Orlicz/IconTest/blob/main/IconTest/IconTest.h)(指文件IconTest.h)非常重要！					
-  * 您可以在全局(Or Other)中定义：MyNotify*<114514> Myn，	
+  * 您可以在全局Or Other中定义：MyNotify*<114514> Myn，	
   * 其中，"114514"是图标按下时的消息，众所周知，Windows是	
   * 事件驱动的操作系统QWQ									
-  * 然后，通过某些手段获得任意窗口HWND (重要)，在任意位置	
+  * 然后，通过某些手段获得任意窗口HWND ,他很重要，在任意位置	
   * 进行初始化：Myn = new MyNotify<114514>(您的HWND)。	
   *														
   * Tips 1:												
