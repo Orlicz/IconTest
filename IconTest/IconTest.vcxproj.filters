@@ -27,9 +27,18 @@
     <ClInclude Include="IconTest.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="AudioClip.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintScreen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="IconTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioClip.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
